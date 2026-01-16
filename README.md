@@ -15,7 +15,7 @@ Analyze performance across multiple levels in a structured manner.
 
 This project follows a level-wise experimental approach to demonstrate understanding of deep learning workflows rather than only maximizing accuracy.
 
-📦 Dataset Details
+ Dataset Details
 
 Dataset: CIFAR-10
 
